@@ -1,0 +1,31 @@
+
+
+head {
+	background-color: lightblue;
+}
+
+body {
+	font-family: Helvetica;
+	font-size: 18px;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+.page_link {
+	color: blue;
+}
+
+.title {
+	font-weight: bold;
+	font-size: 38px;
+}
+
+.my_name {
+	color: blue;
+	font-size: 52px;
+}
+
+
+
