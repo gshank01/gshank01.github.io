@@ -1,20 +1,23 @@
 
 
-head {
-	background-color: lightblue;
-}
+
 
 body {
 	font-family: Helvetica;
 	font-size: 18px;
 	margin-top: 5%;
 	margin-bottom: 10%;
-	margin-right: 15%;
+	margin-right: 18%;
 	margin-left: 10%;
+	background-color: cyan;
+}
+
+h1, h2, h3, h4 {
+	color:darkblue;
 }
 
 .page_link {
-	color: blue;
+	color: darkblue;
 }
 
 .title {
@@ -23,7 +26,7 @@ body {
 }
 
 .my_name {
-	color: blue;
+	color: darkblue;
 	font-size: 52px;
 }
 
