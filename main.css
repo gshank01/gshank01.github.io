@@ -1,19 +1,17 @@
 
-
-
-
 body {
-	font-family: Helvetica;
+	font-family: "Times New Roman", Times, serif;
 	font-size: 18px;
 	margin-top: 5%;
 	margin-bottom: 10%;
 	margin-right: 18%;
 	margin-left: 10%;
-	background-color: cyan;
+	background-color: #A7F7EE;
 }
 
 h1, h2, h3, h4 {
-	color:darkblue;
+	color: black;
+	font-weight: bold;
 }
 
 .page_link {
@@ -26,7 +24,7 @@ h1, h2, h3, h4 {
 }
 
 .my_name {
-	color: darkblue;
+	color: black;
 	font-size: 52px;
 }
 
